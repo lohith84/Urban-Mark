@@ -1,6 +1,6 @@
-# UrbanEcho
+# Urban-Mark
 
-UrbanEcho is a web application that allows users to discover and review urban places by adding pins on a map.
+Urban-Mark is a web application that allows users to discover and review urban places by adding pins on a map.
 
 ## Features
 
@@ -25,3 +25,46 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/UrbanEcho.git
+
+2. Install dependencies for both frontend and backend:
+   ```bash
+   cd Urban-Mark
+   cd frontend && npm install
+   cd ../backend && npm install
+
+3. Configure environment variables:
+- Create a .env file in the backend directory.
+- Add the following variables:
+  ```bash
+  SECRET_KEY="key"
+  MONGO_URL="MongoDB URL"
+  PORT="PORT Number"
+
+- Create a .env file in the frontend directory.
+- Add the following variables:
+  ```bash
+  REACT_APP_MAPBOX="Get Key from below Website"
+  REACT_APP_BACKEND_URL="Backend url"
+  #Get it from https://www.mapbox.com/
+
+4. Start the backend server:
+   ```bash
+   cd backend && npm start
+
+5. Start the frontend development server:
+   ```bash
+   cd frontend && npm start
+3. Open your browser and navigate to http://localhost:3000 to view the application.
+
+## Screenshots
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request.
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+### Notes:
+- Replace placeholders (`key`, `MongoDB URL`, `Port Number`, `Backend url`, `API-Key`) with your actual details.
+- Customize sections like screenshots, features, and technologies used according to your project specifics.
+- Add additional sections as needed, such as API documentation, troubleshooting tips, or deployment instructions.
+
+Feel free to tailor this template further based on your project's unique aspects and requirements!
