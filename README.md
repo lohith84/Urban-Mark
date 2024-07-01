@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/UrbanEcho.git
+   git clone https://github.com/lohith84/Urban-Mark.git
 
 2. Install dependencies for both frontend and backend:
    ```bash
@@ -59,6 +59,8 @@ To run this project locally, follow these steps:
 ## Deployment
 Urban-Mark is deployed and can be accessed at: [Urban-Mark](https://urban-mark.netlify.app/).
 ## Screenshots
+![Image1](https://github.com/lohith84/Urban-Mark/assets/121237224/0ec27b39-c8b6-4ee2-bd31-c44b8f203b09)
+![image2](https://github.com/lohith84/Urban-Mark/assets/121237224/d9ebe42e-2f29-431a-a622-4c71d89008f9)
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
