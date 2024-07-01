@@ -61,7 +61,7 @@ Urban-Mark is deployed and can be accessed at: [Urban-Mark](https://urban-mark.n
 ## Screenshots
 ![Image1](https://github.com/lohith84/Urban-Mark/assets/121237224/0ec27b39-c8b6-4ee2-bd31-c44b8f203b09)
 ![image2](https://github.com/lohith84/Urban-Mark/assets/121237224/d9ebe42e-2f29-431a-a622-4c71d89008f9)
-## Contributing
+## Contributions
 Contributions are welcome! Please fork the repository and submit a pull request.
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
