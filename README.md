@@ -56,6 +56,8 @@ To run this project locally, follow these steps:
    cd frontend && npm start
 3. Open your browser and navigate to http://localhost:3000 to view the application.
 
+## Deployment
+Urban-Mark is deployed and can be accessed at: [Urban-Mark](https://urban-mark.netlify.app/).
 ## Screenshots
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
